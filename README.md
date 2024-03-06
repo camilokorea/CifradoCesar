@@ -49,3 +49,30 @@ El cifrado César tiene un valor histórico y cultural, ya que se cree que fue u
 A pesar de estas aplicaciones históricas y educativas, es importante destacar que el cifrado César no proporciona seguridad significativa en entornos donde se requiere una protección más robusta de la información. Para aplicaciones serias y modernas, se prefieren algoritmos de cifrado más avanzados y seguros, como AES (Advanced Encryption Standard) o RSA (Rivest-Shamir-Adleman).
 
 ## ¿Cuáles son las ventajas y desventajas?
+El cifrado César, a pesar de su simplicidad, tiene algunas ventajas y desventajas. Aquí hay una descripción de ambas:
+
+### Ventajas del Cifrado César:
+
+1. **Simplicidad:**
+El cifrado César es fácil de entender y aplicar. Es un algoritmo simple que implica el desplazamiento de caracteres en el alfabeto, lo que facilita su implementación y comprensión.
+
+2. **Eficiencia Computacional:**
+Debido a su simplicidad, el cifrado César es computacionalmente eficiente. Es adecuado para situaciones en las que la velocidad de cifrado y descifrado es más crítica que la seguridad.
+
+3. **Aplicaciones Didácticas:**
+El cifrado César se utiliza comúnmente con fines educativos para enseñar conceptos básicos de criptografía y seguridad. Es un buen punto de partida para entender los principios fundamentales del cifrado.
+
+### Desventajas del Cifrado César:
+1. **Baja Seguridad:**
+La principal desventaja del cifrado César es su baja seguridad. Dado que solo implica un desplazamiento simple en el alfabeto, es vulnerable a ataques de fuerza bruta y otros métodos de criptoanálisis.
+
+2. **Longitud de Clave Fija:**
+La clave en el cifrado César es el número de posiciones que se desplazan en el alfabeto. Debido a que la longitud de la clave es fija, esto facilita aún más los ataques, ya que solo hay 25 posibles claves (siendo 26 el total de letras en el alfabeto inglés).
+
+3. **Patrones de Lenguaje:**
+El cifrado César no oculta patrones de lenguaje. Si una letra específica se cifra como 'A', siempre se cifrará como 'A' en cualquier parte del mensaje, lo que facilita la identificación de patrones.
+
+4. **Inseguro para Aplicaciones Serias:**
+No se recomienda para aplicaciones donde la seguridad es una preocupación crítica. En contextos modernos, hay algoritmos de cifrado más seguros y avanzados disponibles.
+
+En resumen, el cifrado César es una herramienta didáctica valiosa y puede tener aplicaciones lúdicas, pero no es adecuado para proteger información sensible debido a su baja seguridad. En la práctica, se prefieren otros métodos de cifrado más avanzados y robustos.
