@@ -28,8 +28,7 @@ function cifradoCesar(mensaje, clave) {
 }
 
 // Ejemplo de uso
-// const mensajeOriginal = 'Hello, World!';
-const mensajeOriginal = 'Hola Profesora!!!';
+const mensajeOriginal = 'Hello, World!';
 const clavePositiva = 3;
 const claveNegativa = -3;
 
