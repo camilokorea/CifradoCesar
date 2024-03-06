@@ -76,3 +76,49 @@ El cifrado César no oculta patrones de lenguaje. Si una letra específica se ci
 No se recomienda para aplicaciones donde la seguridad es una preocupación crítica. En contextos modernos, hay algoritmos de cifrado más seguros y avanzados disponibles.
 
 En resumen, el cifrado César es una herramienta didáctica valiosa y puede tener aplicaciones lúdicas, pero no es adecuado para proteger información sensible debido a su baja seguridad. En la práctica, se prefieren otros métodos de cifrado más avanzados y robustos.
+
+## ¿Cuándo se utiliza el Cifra César?
+El cifrado César se utiliza en situaciones donde se requiere una seguridad muy básica o donde la simplicidad y la facilidad de implementación son más importantes que la seguridad real. Aunque no es adecuado para aplicaciones modernas y seguras, el cifrado César tiene algunas áreas de aplicación, principalmente didácticas y recreativas. Aquí hay algunas situaciones en las que podría utilizarse:
+
+1. **Educación en Criptografía:**
+El cifrado César se utiliza comúnmente en entornos educativos como un ejemplo introductorio de criptografía. Ayuda a los estudiantes a comprender conceptos básicos como la sustitución y la clave.
+
+2. **Juegos y Entretenimiento:**
+En juegos, rompecabezas o actividades recreativas, el cifrado César puede utilizarse para agregar un elemento de desafío o misterio. Las personas pueden cifrar mensajes entre sí como parte de un juego o pasatiempo.
+
+3. **Comunicaciones Informales:**
+En situaciones donde la seguridad no es una preocupación crítica, el cifrado César puede utilizarse para comunicaciones informales o intercambio de mensajes entre amigos. Esto podría ser aplicable en entornos en los que la principal intención es divertirse más que proteger la información.
+
+4. **Pruebas de Seguridad Básicas:**
+A veces, el cifrado César puede utilizarse en entornos de prueba o demostraciones de seguridad básicas para ilustrar la vulnerabilidad de métodos de cifrado más simples frente a ataques de fuerza bruta.
+
+5. **Códigos Secretos Simples:**
+En situaciones informales donde se busca la simplicidad, como en actividades infantiles o eventos familiares, el cifrado César puede ser utilizado para crear códigos secretos simples y divertidos.
+
+En resumen, el cifrado César no se utiliza en aplicaciones donde se requiera una seguridad significativa debido a sus limitaciones en términos de robustez y resistencia a ataques. Sin embargo, sigue siendo relevante en contextos educativos y recreativos donde la simplicidad y la comprensión de los principios básicos de la criptografía son los objetivos principales.
+
+## ¿En qué se utiliza el Cifra César?
+El cifrado César se utiliza principalmente con fines educativos y recreativos debido a su simplicidad y falta de seguridad robusta. Aquí hay algunas situaciones específicas en las que el cifrado César puede ser aplicado:
+
+1. **Educación en Criptografía:**
+El cifrado César es a menudo utilizado como un ejemplo introductorio en cursos de criptografía para enseñar conceptos básicos de sustitución y cifrado por desplazamiento.
+
+2. **Ejercicios Didácticos:**
+En entornos educativos, los profesores pueden asignar ejercicios que impliquen el cifrado y descifrado César para ayudar a los estudiantes a comprender los fundamentos de la criptografía.
+
+3. **Desarrollo de Habilidades de Programación:**
+Al implementar el cifrado César, los estudiantes de programación pueden practicar y mejorar sus habilidades de codificación, ya que es un algoritmo simple pero útil.
+
+4. **Pruebas y Demostraciones:**
+En demostraciones de seguridad o pruebas básicas, el cifrado César puede utilizarse para ilustrar los conceptos de vulnerabilidades en métodos de cifrado más simples frente a ataques de fuerza bruta.
+
+5. **Juegos y Rompecabezas:**
+En juegos, rompecabezas o actividades recreativas, el cifrado César puede ofrecer un elemento de desafío. Por ejemplo, los participantes pueden recibir mensajes cifrados que deben descifrar para avanzar en el juego.
+
+6. **Comunicaciones Informales y Divertidas:**
+En situaciones informales entre amigos o familiares, las personas pueden usar el cifrado César para intercambiar mensajes de manera divertida y creativa.
+
+7. **Exploración de Conceptos Criptográficos:**
+Aunque el cifrado César es relativamente simple, su uso puede ayudar a las personas a explorar conceptos criptográficos, como la importancia de las claves y la vulnerabilidad a ciertos tipos de ataques.
+
+Es importante destacar que el cifrado César no es adecuado para aplicaciones en las que la seguridad es una prioridad, ya que es vulnerable a ataques de fuerza bruta y criptoanálisis básicos. En contextos donde se requiere seguridad real, se prefieren algoritmos de cifrado más avanzados y seguros.
